@@ -7,6 +7,7 @@ Reinitialized existing Git repository in D:/delete/.git/
 
 Administrator@admin-PC MINGW64 /d/delete (master)
 **$ git remote add origin https://github.com/ankitdubey021/temp.git**
+
 Administrator@admin-PC MINGW64 /d/delete (master)
 
 **$ git add . # this adds all the files**
@@ -24,9 +25,8 @@ Administrator@admin-PC MINGW64 /d/delete (master)
  create mode 100644 .settings/org.eclipse.jdt.core.prefs
  create mode 100644 src/dfgfdgfd/zxc.java
 
-**final commit**
-
-$ git push -u origin --all
+final commit
+**$ git push -u origin --all**
 
 Counting objects: 10, done.
 Delta compression using up to 2 threads.
